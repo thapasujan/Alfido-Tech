@@ -1,0 +1,7 @@
+id,user_id,type,category,amount,date
+1,1,Income,Salary,40000.0,2024-10-6
+2,1,Expense,Shopping,20000.0,2024-10-8
+4,1,Income,Sales,30000.0,2024-10-1
+5,1,Expense,Homeloan,60000.0,2024-9-29
+10,1,Expense,shoes,6000.0,2024-5-19
+11,1,Expense,Online_pay,6000.0,2024-10-11
